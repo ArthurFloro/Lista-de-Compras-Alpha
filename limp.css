@@ -1,0 +1,61 @@
+body{
+    background-image: url('fundoLimp.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+img{
+    width: 180px;
+    height: 180px;
+}
+
+.cont{
+    display: flex;
+    padding: 24px;
+    margin-left: 60px;
+}
+
+.cont2{
+    display: flex;
+    padding: 24px;
+    margin-left: 60px;
+}
+
+p{
+    font-family: cursive;
+    color: black;
+    padding: 12px;
+    font-size: 20px;
+}
+
+p:hover{
+    color: yellow;
+}
+
+h1{
+    color: black;
+    font-family: cursive;
+}
+
+h1:hover{
+    color: yellow;
+}
+
+h2{
+    color: black;
+    font-family: cursive;
+}
+
+h2:hover{
+    color: yellow;
+}
+
+button{
+    padding: 10px;
+    background-color: yellow;
+    color: black;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}

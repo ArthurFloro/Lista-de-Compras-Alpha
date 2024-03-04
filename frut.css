@@ -1,0 +1,69 @@
+body{
+    background-image: url('fundoFrut.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+img{
+    width: 180px;
+    height: 180px;
+}
+
+.cont1{
+    display: flex;
+    padding: 40px;
+    margin-left: 110px;
+}
+
+.cont2{
+    display: flex;
+    padding: 40px;
+    margin-left: 110px;
+}
+
+.cont3{
+    display: flex;
+    padding: 40px;
+    margin-left: 110px;
+}
+
+h1{
+    font-family: cursive;
+    color: white;
+}
+
+h1:hover{
+    color: yellow;
+}
+
+.title{
+    font-family: cursive;
+    color: white;
+    padding: 24px;
+}
+
+.title:hover{
+    color: yellow;
+}
+
+p{
+    font-family: cursive;
+    color: white;
+    padding: 12px;
+    font-size: 24px;
+}
+
+p:hover{
+    color: yellow;
+}
+
+button{
+    padding: 10px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 620px;
+}

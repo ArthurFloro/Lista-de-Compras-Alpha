@@ -1,0 +1,60 @@
+body{
+    background-image: url("fundoFrios.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.title{
+    font-family: cursive;
+    color: white;
+}
+
+.title:hover{
+    color: yellow;
+}
+
+.title2{
+    font-family: cursive;
+    color: white;
+}
+
+.title2:hover{
+    color: yellow;
+}
+.cont{
+    display: flex;
+    padding: 40px;
+    margin-left: 80px;
+}
+
+.cont2{
+    display: flex;
+    padding: 24px;
+    margin-left: 80px;
+}
+p{
+    color: white;
+    font-family: cursive;
+    font-size: 20px;
+    padding: 24px;
+}
+
+p:hover{
+    color: yellow;
+}
+
+
+img{
+    width: 180px;
+    height: 180px;
+}
+
+button{
+    padding: 10px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}

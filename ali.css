@@ -1,0 +1,80 @@
+body{
+    background-image: url('aliFundo.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.cont1{
+    display: flex;
+    margin-left: 50px;
+    padding: 24px;
+}
+
+.cont2{
+    display: flex;
+    margin-left: 50px;
+    padding: 24px;
+}
+
+.cont3{
+    display: flex;
+    margin-left: 50px;
+    padding: 24px;
+}
+
+.cont4{
+    display: flex;
+    margin-left: 50px;
+    padding: 24px;
+}
+
+.cont5{
+    display: flex;
+    margin-left: 50px;
+    padding: 24px;
+}
+img{
+    width: 180px;
+    height: 180px;
+    
+}
+
+p{
+    font-size: 24px;
+    font-family: cursive;
+    color: white;
+    padding: 12px;
+   
+}
+
+p:hover{
+    color: yellow;
+}
+.title{
+    color: white;
+    font-family: cursive;
+}
+
+.title:hover{
+    color: yellow;
+}
+
+h1{
+    font-family: cursive;
+    color: white;
+}
+
+h1:hover{
+    color: yellow;
+}
+
+button{
+    padding: 10px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 570px;
+}

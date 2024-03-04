@@ -1,0 +1,60 @@
+body{
+    background-image: url('fundoBebida.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    font-family: cursive;
+    color: white;
+}
+
+h1:hover{
+    color: yellow;
+}
+
+.title{
+    font-family: cursive;
+    color: white;
+    padding: 20px;
+}
+
+.title:hover{
+    color: yellow;
+}
+
+.cont1{
+    display: flex;
+    padding: 24px;
+}
+
+.cont2{
+    display: flex;
+    padding: 24px;
+}
+
+img{
+    width: 180px;
+    height: 180px;
+}
+
+p{
+    font-family: cursive;
+    font-size: 24px;
+    color: white;
+    padding: 12px;
+}
+
+p:hover{
+    color: yellow;
+}
+
+button{
+    padding: 10px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
